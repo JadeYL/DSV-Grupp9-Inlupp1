@@ -225,6 +225,55 @@ Prefab:
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
         type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
   m_IsPrefabParent: 0
@@ -339,6 +388,55 @@ Prefab:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
+        type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
         type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
@@ -455,6 +553,55 @@ Prefab:
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
         type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
   m_IsPrefabParent: 0
@@ -569,6 +716,55 @@ Prefab:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
+        type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
         type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
@@ -899,7 +1095,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 0, g: 0.8, b: 0.8, a: 1}
     m_HighlightedColor: {r: 0.5019608, g: 1, b: 1, a: 1}
@@ -908,9 +1104,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+      type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351, type: 3}
+    m_DisabledSprite: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -953,8 +1150,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1237,6 +1434,55 @@ Prefab:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
+        type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
         type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
@@ -1622,15 +1868,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.12370242, g: 0.13533588, b: 0.19117647, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 7759f1a47e311304285c1636e727d7b9, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1779,15 +2025,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -1968,6 +2214,55 @@ Prefab:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
+        type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
         type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
@@ -2154,6 +2449,60 @@ Prefab:
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
         type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_TargetGraphic
+      value: 
+      objectReference: {fileID: 2083190982}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
   m_IsPrefabParent: 0
@@ -2269,6 +2618,55 @@ Prefab:
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
         type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
   m_IsPrefabParent: 0
@@ -2326,7 +2724,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 0, g: 0.8, b: 0.8, a: 1}
     m_HighlightedColor: {r: 0.5019608, g: 1, b: 1, a: 1}
@@ -2335,9 +2733,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+      type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351, type: 3}
+    m_DisabledSprite: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -2380,8 +2779,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2514,15 +2913,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0, g: 0, b: 0, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 2e04f012b285cc34ca8a9a9bc816e4f3, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -2727,6 +3126,55 @@ Prefab:
       value: 
       objectReference: {fileID: 12800000, guid: 8f4b7e3ca43fb024abff994f06046f24,
         type: 3}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.r
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.g
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Color.b
+      value: 0.8
+      objectReference: {fileID: 0}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad,
+        type: 3}
+    - target: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Type
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_Transition
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_HighlightedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_PressedSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351,
+        type: 3}
+    - target: {fileID: 114629241081292826, guid: d524b2b15daaea14f8ae854bf47e5237,
+        type: 2}
+      propertyPath: m_SpriteState.m_DisabledSprite
+      value: 
+      objectReference: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1,
+        type: 3}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: d524b2b15daaea14f8ae854bf47e5237, type: 2}
   m_IsPrefabParent: 0
@@ -2779,15 +3227,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 0.12941177, g: 0.17254902, b: 0.21568628, a: 1}
+  m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_RaycastTarget: 1
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10907, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -3014,6 +3462,12 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2083190982 stripped
+MonoBehaviour:
+  m_PrefabParentObject: {fileID: 114496231928109044, guid: d524b2b15daaea14f8ae854bf47e5237,
+    type: 2}
+  m_PrefabInternal: {fileID: 1638222942}
+  m_Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 --- !u!114 &2088643817 stripped
 MonoBehaviour:
   m_PrefabParentObject: {fileID: 114783657285186846, guid: d524b2b15daaea14f8ae854bf47e5237,
