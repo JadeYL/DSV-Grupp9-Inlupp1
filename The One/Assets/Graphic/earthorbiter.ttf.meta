@@ -1,6 +1,6 @@
 fileFormatVersion: 2
-guid: 9c00f8bbfa9de3f4e956778ac6e86e09
-timeCreated: 1522871376
+guid: 8f4b7e3ca43fb024abff994f06046f24
+timeCreated: 1522872972
 licenseType: Free
 TrueTypeFontImporter:
   externalObjects: {}
@@ -10,9 +10,9 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: Saucer BB
+  fontName: Earth Orbiter
   fontNames:
-  - SaucerBB
+  - Earth Orbiter
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
