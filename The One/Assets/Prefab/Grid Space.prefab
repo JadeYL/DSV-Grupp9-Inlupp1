@@ -66,8 +66,8 @@ MonoBehaviour:
       m_Calls: []
     m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
       Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_Sprite: {fileID: 10905, guid: 0000000000000000f000000000000000, type: 0}
-  m_Type: 1
+  m_Sprite: {fileID: 21300000, guid: 74b16a8636b6ba240b997d3f31700dad, type: 3}
+  m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
   m_FillMethod: 4
@@ -91,7 +91,7 @@ MonoBehaviour:
     m_SelectOnDown: {fileID: 0}
     m_SelectOnLeft: {fileID: 0}
     m_SelectOnRight: {fileID: 0}
-  m_Transition: 1
+  m_Transition: 2
   m_Colors:
     m_NormalColor: {r: 0, g: 0.8, b: 0.8, a: 1}
     m_HighlightedColor: {r: 0.5019608, g: 1, b: 1, a: 1}
@@ -100,9 +100,10 @@ MonoBehaviour:
     m_ColorMultiplier: 1
     m_FadeDuration: 0.1
   m_SpriteState:
-    m_HighlightedSprite: {fileID: 0}
-    m_PressedSprite: {fileID: 0}
-    m_DisabledSprite: {fileID: 0}
+    m_HighlightedSprite: {fileID: 21300000, guid: d087c7b6cb574a046b3dc6b37ff99fe3,
+      type: 3}
+    m_PressedSprite: {fileID: 21300000, guid: ec1957d4dba6fb842910337c36de7351, type: 3}
+    m_DisabledSprite: {fileID: 21300000, guid: 366837bdd265af24aa9b559b82d833b1, type: 3}
   m_AnimationTriggers:
     m_NormalTrigger: Normal
     m_HighlightedTrigger: Highlighted
@@ -174,7 +175,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   button: {fileID: 114629241081292826}
   buttonText: {fileID: 114783657285186846}
-  playerSide: X
 --- !u!222 &222064897843810150
 CanvasRenderer:
   m_ObjectHideFlags: 1
